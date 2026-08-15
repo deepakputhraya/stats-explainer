@@ -1,0 +1,14 @@
+# Wrangler asset ignore — gitignore-style patterns
+node_modules/
+.wrangler/
+.git/
+.dev.vars
+package.json
+package-lock.json
+bun.lockb
+wrangler.jsonc
+README.md
+AGENTS.md
+CLAUDE.md
+plan.md
+.DS_Store
